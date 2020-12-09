@@ -1,3 +1,7 @@
+layout: page
+title: "SEO Agentur finden"
+permalink: /
+
 # Welcome to GitHub Pages
 ## Welcome to GitHub Pages
 ### Welcome to GitHub Pages

@@ -1,7 +1,3 @@
-
-layout: post
-title:  "Die richtige Shopware Agentur wählen"
-
 # Welcome to GitHub Pages
 ## Welcome to GitHub Pages
 ### Welcome to GitHub Pages

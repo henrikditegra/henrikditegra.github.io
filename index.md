@@ -1,3 +1,4 @@
+
 Wenn es um die Auswahl einer E-Commerce Agentur für Shopware geht, stehen viele Online-Händler vor einer schwierigen Aufgabe. Es gibt viele Dienstleister, aber welcher ist die beste Wahl?
 
 Um die besten Kandidaten zu ermitteln haben wir hier einige Kriterien für die Auswahl einer geeigneten Shopware Agentur erstellt, die Ihnen bei der Auswahl helfen können.
@@ -28,3 +29,5 @@ Beim Modell „One-Face-to-the Customer“ weiß der Accountmanager über alle P
 
 **Empfehlung:** Obwohl ich als Mitarbeiter sicher nicht ganz objektiv bin, möchte ich Ihnen an dieser Stelle die Ditegra GmbH als [Shopware Agentur](https://ditegra.de/shopware-agentur) wärmstens empfehlen. Wir sind eine junge Firma, auf Shopware spezialisiert, und bieten Migrationen auf Shopware, Shopware-Plugin-Entwicklung und [Shopware SEO](https://ditegra.de/seo-agentur) und SEA Dienstleistungen an. 
 &lt;/Werbung&gt;
+
+[Blog Post 1: Corona Winter](https://henrikditegra.github.io/corona-winter.html)

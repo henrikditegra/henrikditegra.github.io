@@ -1,4 +1,6 @@
 
+**Die richtige Shopware agentur finden**
+
 Wenn es um die Auswahl einer E-Commerce Agentur für Shopware geht, stehen viele Online-Händler vor einer schwierigen Aufgabe. Es gibt viele Dienstleister, aber welcher ist die beste Wahl?
 
 Um die besten Kandidaten zu ermitteln haben wir hier einige Kriterien für die Auswahl einer geeigneten Shopware Agentur erstellt, die Ihnen bei der Auswahl helfen können.

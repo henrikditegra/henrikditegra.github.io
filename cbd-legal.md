@@ -8,11 +8,13 @@ Cannabidiol wird nicht mehr dem Betäubungsmittelgesetz (BtMG) unterstellt:
 Nach dem Buchstaben b unter der Position Cannabis in Anlage I zu § 1 Abs. 1 BtMG sind Cannabispflanzen von den betäubungsmittelrechtlichen Vorschriften ausgenommen, wenn sie:
 
 *In der EU angebaut werden und*
+
 *Pflanzen aus zertifiziertem Saatgut sind (Nutzhanf)*
 
 oder:
 
 *der THC-Gehalt unter 0,2 % liegt und*
+
 *Es nur zu gewerblichen oder wissenschaftlichen Zwecken benutzt wird, die einen Missbrauch ausschließen.*
 
 Ganze Pflanzen und Pflanzenteile (auch getrocknet oder zerkleinert) dürfen nicht an Endverbraucher abgegeben werden. 

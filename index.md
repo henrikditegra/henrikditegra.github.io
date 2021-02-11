@@ -33,4 +33,5 @@ Beim Modell „One-Face-to-the Customer“ weiß der Accountmanager über alle P
 &lt;/Werbung&gt;
 
 [Blog Post 1: Corona Winter](https://henrikditegra.github.io/corona-winter.html)
+
 [Blog Post 2: Sind CBD-Produkte eigentlich legal?](https://henrikditegra.github.io/cbd-legal.html)

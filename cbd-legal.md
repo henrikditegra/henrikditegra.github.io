@@ -2,6 +2,8 @@
 
 Seit dem 10.03.2017 gibt es eine neue Rechtslage bei CBD-Produkten.
 Cannabidiol wird nicht mehr dem Betäubungsmittelgesetz (BtMG) unterstellt:
+(https://www.bfarm.de/SharedDocs/FAQs/DE/BtmGrundstoffeAMVV/Cannabis/cannabis-faq14.html)
+
 Nach dem Buchstaben b unter der Position Cannabis in Anlage I zu § 1 Abs. 1 BtMG sind Cannabispflanzen von den betäubungsmittelrechtlichen Vorschriften ausgenommen, wenn sie:
 
 *In der EU angebaut werden und*
